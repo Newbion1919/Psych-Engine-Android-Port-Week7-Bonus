@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Mom Left Pose",
+			"name": "Mom Pose Left",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Mom Pose Left",
+			"name": "Mom Left Pose",
 			"indices": []
 		},
 		{
