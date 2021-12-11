@@ -127,17 +127,17 @@
 			],
 			"anim": "hey",
 			"fps": 24,
-			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"name": "Dad Jump",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/DADDY_DEAREST",
+	"image": "characters/hex",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "dad",
+	"healthicon": "hex",
 	"flip_x": false,
 	"healthbar_colors": [
 		175,
