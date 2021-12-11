@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				250,
-				-23
+				0,
+				0
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -25,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				10,
-				-60
+				0,
+				0
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -36,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				20,
-				-160
+				0,
+				0
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -47,8 +47,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				14,
-				71
+				-20,
+				0
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -60,14 +60,14 @@
 	"image": "characters/sky_assets",
 	"position": [
 		0,
-		0
+		-388
 	],
 	"healthicon": "sky",
 	"flip_x": false,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		156,
+		105,
+		242
 	],
 	"camera_position": [
 		0,
