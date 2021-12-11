@@ -2,46 +2,46 @@
 	"animations": [
 		{
 			"offsets": [
-				-9,
-				10
+				-40,
+				-20
 			],
 			"loop": false,
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Sing LEFT",
+			"name": "Sing Right",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				-30
+				40,
+				-50
 			],
 			"loop": false,
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Sing DOWN",
+			"name": "Sing Down",
 			"indices": []
 		},
 		{
 			"offsets": [
-				-6,
+				-16,
 				50
 			],
 			"loop": false,
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Sing UP",
+			"name": "Sing Up",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
+				40,
 				27
 			],
 			"loop": false,
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Sing RIGHT",
+			"name": "Sing Left",
 			"indices": []
 		},
 		{
@@ -73,8 +73,8 @@
 		},
 		{
 			"offsets": [
-				-9,
-				10
+				-40,
+				-20
 			],
 			"loop": true,
 			"fps": 24,
@@ -85,11 +85,11 @@
 				14,
 				15
 			],
-			"name": "Sing LEFT"
+			"name": "Sing Right"
 		},
 		{
 			"offsets": [
-				0,
+				40,
 				27
 			],
 			"loop": true,
@@ -101,7 +101,7 @@
 				17,
 				18
 			],
-			"name": "Sing RIGHT"
+			"name": "Sing Left"
 		},
 		{
 			"offsets": [
@@ -117,7 +117,7 @@
 				58,
 				59
 			],
-			"name": "Sing UP"
+			"name": "Sing Up"
 		},
 		{
 			"loop": false,
@@ -125,7 +125,7 @@
 				140,
 				-100
 			],
-			"anim": "hey",
+			"anim": "singUP-alt",
 			"fps": 24,
 			"name": "Whitty Ballistic Custence",
 			"indices": []
@@ -140,9 +140,9 @@
 	"healthicon": "whitty",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		40,
+		40,
+		80
 	],
 	"camera_position": [
 		0,
