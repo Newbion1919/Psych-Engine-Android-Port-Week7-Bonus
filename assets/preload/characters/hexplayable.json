@@ -2,13 +2,13 @@
 	"animations": [
 		{
 			"offsets": [
-				-9,
-				10
+				0,
+				27
 			],
 			"loop": false,
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Dad Sing Note LEFT",
+			"name": "Dad Sing Note RIGHT",
 			"indices": []
 		},
 		{
@@ -25,7 +25,7 @@
 		{
 			"offsets": [
 				-6,
-				50
+				-50
 			],
 			"loop": false,
 			"anim": "singUP",
@@ -35,13 +35,13 @@
 		},
 		{
 			"offsets": [
-				0,
-				27
+				-10,
+				10
 			],
 			"loop": false,
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
+			"name": "Dad Sing Note LEFT",
 			"indices": []
 		},
 		{
@@ -73,8 +73,8 @@
 		},
 		{
 			"offsets": [
-				-9,
-				10
+				0,
+				27
 			],
 			"loop": true,
 			"fps": 24,
@@ -85,12 +85,12 @@
 				14,
 				15
 			],
-			"name": "Dad Sing Note LEFT"
+			"name": "Dad Sing Note RIGHT"
 		},
 		{
 			"offsets": [
-				0,
-				27
+				-10,
+				10
 			],
 			"loop": true,
 			"fps": 24,
@@ -101,7 +101,7 @@
 				17,
 				18
 			],
-			"name": "Dad Sing Note RIGHT"
+			"name": "Dad Sing Note LEFT"
 		},
 		{
 			"offsets": [
@@ -122,10 +122,10 @@
 		{
 			"loop": false,
 			"offsets": [
-				140,
-				-100
+				0,
+				200
 			],
-			"anim": "hey",
+			"anim": "SingUP-alt",
 			"fps": 24,
 			"name": "Dad Jump",
 			"indices": []
@@ -140,9 +140,9 @@
 	"healthicon": "hex",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		0,
+		255,
+		240
 	],
 	"camera_position": [
 		0,
