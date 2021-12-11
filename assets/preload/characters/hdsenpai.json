@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-9,
-				10
+				70,
+				27
 			],
 			"loop": false,
 			"anim": "singLEFT",
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				-30
+				64,
+				-36
 			],
 			"loop": false,
 			"anim": "singDOWN",
@@ -24,7 +24,7 @@
 		},
 		{
 			"offsets": [
-				-6,
+				-12,
 				50
 			],
 			"loop": false,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				27
+				-24,
+				10
 			],
 			"loop": false,
 			"anim": "singRIGHT",
@@ -73,8 +73,8 @@
 		},
 		{
 			"offsets": [
-				-9,
-				10
+				70,
+				27
 			],
 			"loop": true,
 			"fps": 24,
@@ -89,8 +89,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				27
+				-24,
+				10
 			],
 			"loop": true,
 			"fps": 24,
@@ -105,7 +105,7 @@
 		},
 		{
 			"offsets": [
-				-6,
+				-12,
 				50
 			],
 			"loop": true,
@@ -122,8 +122,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				140,
-				-100
+				64,
+				-36
 			],
 			"anim": "hey",
 			"fps": 24,
@@ -132,7 +132,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/HD_SENPAIANGRY",
+	"image": "characters/HD_SENPAIMAD",
 	"position": [
 		0,
 		0
@@ -140,9 +140,9 @@
 	"healthicon": "hdsenpai",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		215,
+		142,
+		100
 	],
 	"camera_position": [
 		0,
