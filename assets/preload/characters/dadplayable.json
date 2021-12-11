@@ -2,13 +2,13 @@
 	"animations": [
 		{
 			"offsets": [
-				24,
-				29
+				-49,
+				13
 			],
 			"loop": false,
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Dad Sing Note LEFT",
+			"name": "Dad Sing Note RIGHT",
 			"indices": []
 		},
 		{
@@ -35,13 +35,13 @@
 		},
 		{
 			"offsets": [
-				-49,
-				13
+				24,
+				29
 			],
 			"loop": false,
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
+			"name": "Dad Sing Note LEFT",
 			"indices": []
 		},
 		{
@@ -73,8 +73,8 @@
 		},
 		{
 			"offsets": [
-				24,
-				29
+				-49,
+				13
 			],
 			"loop": true,
 			"fps": 24,
@@ -85,12 +85,12 @@
 				14,
 				15
 			],
-			"name": "Dad Sing Note LEFT"
+			"name": "Dad Sing Note RIGHT"
 		},
 		{
 			"offsets": [
-				-49,
-				13
+				24,
+				29
 			],
 			"loop": true,
 			"fps": 24,
@@ -101,7 +101,7 @@
 				17,
 				18
 			],
-			"name": "Dad Sing Note RIGHT"
+			"name": "Dad Sing Note LEFT"
 		},
 		{
 			"offsets": [
