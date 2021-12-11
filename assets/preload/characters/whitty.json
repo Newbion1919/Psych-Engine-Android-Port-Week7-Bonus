@@ -19,7 +19,7 @@
 			"loop": false,
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Dad Sing Note DOWN",
+			"name": "Sing DOWN",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			"loop": false,
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Dad Sing Note UP",
+			"name": "Sing UP",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			"loop": false,
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
+			"name": "Sing RIGHT",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			"loop": false,
 			"anim": "idle",
 			"fps": 24,
-			"name": "Dad idle dance",
+			"name": "Idle",
 			"indices": []
 		},
 		{
@@ -69,7 +69,7 @@
 				12,
 				12
 			],
-			"name": "Dad idle dance"
+			"name": "Idle"
 		},
 		{
 			"offsets": [
@@ -85,7 +85,7 @@
 				14,
 				15
 			],
-			"name": "Dad Sing Note LEFT"
+			"name": "Sing LEFT"
 		},
 		{
 			"offsets": [
@@ -101,7 +101,7 @@
 				17,
 				18
 			],
-			"name": "Dad Sing Note RIGHT"
+			"name": "Sing RIGHT"
 		},
 		{
 			"offsets": [
@@ -117,7 +117,7 @@
 				58,
 				59
 			],
-			"name": "Dad Sing Note UP"
+			"name": "Sing UP"
 		},
 		{
 			"loop": false,
@@ -127,17 +127,17 @@
 			],
 			"anim": "hey",
 			"fps": 24,
-			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"name": "Whitty Ballistic Custence",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/DADDY_DEAREST",
+	"image": "characters/WhittySprites",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "dad",
+	"healthicon": "whitty",
 	"flip_x": false,
 	"healthbar_colors": [
 		175,
