@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-6,
-				50
+				5,
+				110
 			],
 			"loop": false,
 			"anim": "singUP",
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				27
+				110,
+				-75
 			],
 			"loop": false,
 			"anim": "singRIGHT",
@@ -73,8 +73,8 @@
 		},
 		{
 			"offsets": [
-				-9,
-				10
+				60,
+				20
 			],
 			"loop": true,
 			"fps": 24,
@@ -89,8 +89,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				27
+				110,
+				-75
 			],
 			"loop": true,
 			"fps": 24,
@@ -105,8 +105,8 @@
 		},
 		{
 			"offsets": [
-				-6,
-				50
+				5,
+				110
 			],
 			"loop": true,
 			"fps": 24,
@@ -122,8 +122,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				140,
-				-100
+				290,
+				180
 			],
 			"anim": "singUP-alt",
 			"fps": 24,
