@@ -2,24 +2,24 @@
 	"animations": [
 		{
 			"offsets": [
-				-9,
-				10
+				60,
+				20
 			],
 			"loop": false,
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Sing LEFT",
+			"name": "Whitty Sing Note LEFT",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				-30
+				130,
+				-130
 			],
 			"loop": false,
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Sing DOWN",
+			"name": "Whitty Sing Note DOWN",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			"loop": false,
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Sing UP",
+			"name": "Whitty Sing Note UP",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			"loop": false,
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Sing RIGHT",
+			"name": "Whitty Sing Note RIGHT",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			"loop": false,
 			"anim": "idle",
 			"fps": 24,
-			"name": "Idle",
+			"name": "Whitty idle dance",
 			"indices": []
 		},
 		{
@@ -69,7 +69,7 @@
 				12,
 				12
 			],
-			"name": "Idle"
+			"name": "Whitty idle dance"
 		},
 		{
 			"offsets": [
@@ -85,7 +85,7 @@
 				14,
 				15
 			],
-			"name": "Sing LEFT"
+			"name": "Whitty Sing Note LEFT"
 		},
 		{
 			"offsets": [
@@ -101,7 +101,7 @@
 				17,
 				18
 			],
-			"name": "Sing RIGHT"
+			"name": "Whitty Sing Note RIGHT"
 		},
 		{
 			"offsets": [
@@ -117,7 +117,7 @@
 				58,
 				59
 			],
-			"name": "Sing UP"
+			"name": "Whitty Sing Note UP"
 		},
 		{
 			"loop": false,
@@ -125,7 +125,7 @@
 				140,
 				-100
 			],
-			"anim": "hey",
+			"anim": "singUP-alt",
 			"fps": 24,
 			"name": "Whitty Ballistic Custence",
 			"indices": []
@@ -140,9 +140,9 @@
 	"healthicon": "whittycrazy",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		126,
+		5,
+		62
 	],
 	"camera_position": [
 		0,
