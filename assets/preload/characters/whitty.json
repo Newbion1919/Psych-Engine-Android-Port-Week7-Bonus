@@ -2,13 +2,13 @@
 	"animations": [
 		{
 			"offsets": [
-				-40,
-				-20
+				40,
+				27
 			],
 			"loop": false,
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Sing Right",
+			"name": "Sing Left",
 			"indices": []
 		},
 		{
@@ -35,13 +35,13 @@
 		},
 		{
 			"offsets": [
-				40,
-				27
+				-40,
+				-20
 			],
 			"loop": false,
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Sing Left",
+			"name": "Sing Right",
 			"indices": []
 		},
 		{
@@ -73,8 +73,8 @@
 		},
 		{
 			"offsets": [
-				-40,
-				-20
+				40,
+				27
 			],
 			"loop": true,
 			"fps": 24,
@@ -85,12 +85,12 @@
 				14,
 				15
 			],
-			"name": "Sing Right"
+			"name": "Sing Left"
 		},
 		{
 			"offsets": [
-				40,
-				27
+				-40,
+				-20
 			],
 			"loop": true,
 			"fps": 24,
@@ -101,7 +101,7 @@
 				17,
 				18
 			],
-			"name": "Sing Left"
+			"name": "Sing Right"
 		},
 		{
 			"offsets": [
