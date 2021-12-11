@@ -57,12 +57,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Mom_Assets",
+	"image": "characters/cassandra",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "mom",
+	"healthicon": "cassandra",
 	"flip_x": false,
 	"healthbar_colors": [
 		216,
