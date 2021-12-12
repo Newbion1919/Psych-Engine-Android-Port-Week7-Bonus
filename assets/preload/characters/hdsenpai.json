@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				70,
+				40,
 				27
 			],
 			"loop": false,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				64,
-				-36
+				40,
+				-30
 			],
 			"loop": false,
 			"anim": "singDOWN",
@@ -35,7 +35,7 @@
 		},
 		{
 			"offsets": [
-				-24,
+				-40,
 				10
 			],
 			"loop": false,
@@ -73,7 +73,7 @@
 		},
 		{
 			"offsets": [
-				70,
+				40,
 				27
 			],
 			"loop": true,
@@ -89,7 +89,7 @@
 		},
 		{
 			"offsets": [
-				-24,
+				-40,
 				10
 			],
 			"loop": true,
@@ -122,12 +122,12 @@
 		{
 			"loop": false,
 			"offsets": [
-				64,
-				-36
+				-12,
+				50
 			],
 			"anim": "hey",
 			"fps": 24,
-			"name": "Dad UGH",
+			"name": "Dad UGH0",
 			"indices": []
 		}
 	],
