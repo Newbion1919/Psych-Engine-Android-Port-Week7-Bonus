@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				40,
-				27
+				-10,
+				10
 			],
 			"loop": false,
 			"anim": "singLEFT",
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				40,
-				-50
+				8,
+				-40
 			],
 			"loop": false,
 			"anim": "singDOWN",
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-16,
-				50
+				-6,
+				58
 			],
 			"loop": false,
 			"anim": "singUP",
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-40,
-				-20
+				0,
+				27
 			],
 			"loop": false,
 			"anim": "singRIGHT",
@@ -73,8 +73,8 @@
 		},
 		{
 			"offsets": [
-				40,
-				27
+				-10,
+				10
 			],
 			"loop": true,
 			"fps": 24,
@@ -89,8 +89,8 @@
 		},
 		{
 			"offsets": [
-				-40,
-				-20
+				0,
+				27
 			],
 			"loop": true,
 			"fps": 24,
@@ -106,7 +106,7 @@
 		{
 			"offsets": [
 				-6,
-				50
+				58
 			],
 			"loop": true,
 			"fps": 24,
@@ -122,12 +122,12 @@
 		{
 			"loop": false,
 			"offsets": [
-				140,
-				-100
+				290,
+				180
 			],
 			"anim": "singUP-alt",
 			"fps": 24,
-			"name": "Whitty Ballistic Custence",
+			"name": "Whitty Ballistic Custsence",
 			"indices": []
 		}
 	],
