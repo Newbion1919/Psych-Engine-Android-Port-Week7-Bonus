@@ -30,7 +30,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "sky annoyed left",
+			"name": "sky annoyed right",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "sky annoyed right",
+			"name": "sky annoyed left",
 			"indices": []
 		},
 		{
