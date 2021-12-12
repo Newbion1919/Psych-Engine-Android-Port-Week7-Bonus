@@ -14,21 +14,10 @@
 		{
 			"loop": false,
 			"offsets": [
-				250,
-				-23
+				0,
+				0
 			],
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "garcello Sing Note LEFT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				10,
-				-60
-			],
-			"anim": "singRIGHT",
 			"fps": 24,
 			"name": "garcello Sing Note RIGHT",
 			"indices": []
@@ -36,8 +25,19 @@
 		{
 			"loop": false,
 			"offsets": [
-				20,
-				-160
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "garcello Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -47,8 +47,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				14,
-				71
+				0,
+				2
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -65,8 +65,8 @@
 	"healthicon": "garcello",
 	"flip_x": false,
 	"healthbar_colors": [
-		216,
-		85,
+		16,
+		255,
 		142
 	],
 	"camera_position": [
