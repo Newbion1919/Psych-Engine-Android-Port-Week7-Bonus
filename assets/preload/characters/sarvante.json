@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				250,
-				-23
+				0,
+				0
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -25,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				10,
-				-60
+				0,
+				0
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -36,23 +36,23 @@
 		{
 			"loop": false,
 			"offsets": [
-				20,
-				-160
+				0,
+				0
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "SarventeDOWN",
+			"name": "SarventeDown",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				14,
-				71
+				0,
+				0
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "SarventeUP",
+			"name": "SarventeUp",
 			"indices": []
 		}
 	],
@@ -62,12 +62,12 @@
 		0,
 		0
 	],
-	"healthicon": "sarvente_sheet",
+	"healthicon": "sarvente",
 	"flip_x": false,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		255,
+		145,
+		202
 	],
 	"camera_position": [
 		0,
