@@ -11,6 +11,17 @@
 			"name": "sky annoyed idle",
 			"indices": []
 		},
+                {
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "sky annoyed alt idle",
+			"indices": []
+		},
 		{
 			"loop": false,
 			"offsets": [
