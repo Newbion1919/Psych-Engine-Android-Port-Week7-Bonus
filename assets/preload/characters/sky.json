@@ -47,7 +47,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-20,
+				20,
 				0
 			],
 			"anim": "singUP",
@@ -59,19 +59,19 @@
 	"no_antialiasing": false,
 	"image": "characters/sky_assets",
 	"position": [
-		07,
-		-388
+		-80,
+		388
 	],
 	"healthicon": "sky",
-	"flip_x": false,
+	"flip_x": true,
 	"healthbar_colors": [
 		156,
 		105,
 		242
 	],
 	"camera_position": [
-		0,
-		0
+		40,
+		-90
 	],
 	"sing_duration": 4,
 	"scale": 1
