@@ -41,7 +41,7 @@
 			"loop": false,
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Whitty Sing Note RIGHT",
+			"name": "whitty sing note right",
 			"indices": []
 		},
 		{
@@ -101,7 +101,7 @@
 				17,
 				18
 			],
-			"name": "Whitty Sing Note RIGHT"
+			"name": "whitty sing note right"
 		},
 		{
 			"offsets": [
@@ -127,7 +127,7 @@
 			],
 			"anim": "singUP-alt",
 			"fps": 24,
-			"name": "Whitty Ballistic Custence",
+			"name": "Whitty Ballistic Custsence",
 			"indices": []
 		}
 	],
