@@ -189,9 +189,9 @@
 	"healthicon": "annie",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		236,
+		5,
+		62
 	],
 	"camera_position": [
 		0,
