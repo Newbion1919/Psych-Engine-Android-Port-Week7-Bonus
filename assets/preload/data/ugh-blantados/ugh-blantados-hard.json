@@ -3048,8 +3048,8 @@
 			}
 		],
 		"player3": "gf-tankman",
-		"song": "Ugh",
-		"stage": "tank",
+		"song": "Ugh Blantados",
+		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"speed": 2.3,
