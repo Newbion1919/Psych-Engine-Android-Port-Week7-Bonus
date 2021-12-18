@@ -63,12 +63,7 @@
 			"loop": true,
 			"fps": 24,
 			"anim": "idle-loop",
-			"indices": [
-				10,
-				11,
-				12,
-				12
-			],
+			"indices": [],
 			"name": "Dad idle dance"
 		},
 		{
@@ -79,12 +74,7 @@
 			"loop": true,
 			"fps": 24,
 			"anim": "singLEFT-loop",
-			"indices": [
-				12,
-				13,
-				14,
-				15
-			],
+			"indices": [],
 			"name": "Dad Sing Note RIGHT0"
 		},
 		{
@@ -95,12 +85,7 @@
 			"loop": true,
 			"fps": 24,
 			"anim": "singRIGHT-loop",
-			"indices": [
-				15,
-				16,
-				17,
-				18
-			],
+			"indices": [],
 			"name": "Dad Sing Note LEFT0"
 		},
 		{
@@ -111,19 +96,14 @@
 			"loop": true,
 			"fps": 24,
 			"anim": "singUP-loop",
-			"indices": [
-				56,
-				57,
-				58,
-				59
-			],
+			"indices": [],
 			"name": "Dad Sing Note UP"
 		},
 		{
 			"loop": false,
 			"offsets": [
 				0,
-				200
+				-30
 			],
 			"anim": "singUP-alt",
 			"fps": 24,

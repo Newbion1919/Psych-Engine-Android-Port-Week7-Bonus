@@ -63,12 +63,7 @@
 			"loop": true,
 			"fps": 24,
 			"anim": "idle-loop",
-			"indices": [
-				10,
-				11,
-				12,
-				12
-			],
+			"indices": [],
 			"name": "Whitty idle dance"
 		},
 		{
@@ -79,12 +74,7 @@
 			"loop": true,
 			"fps": 24,
 			"anim": "singLEFT-loop",
-			"indices": [
-				12,
-				13,
-				14,
-				15
-			],
+			"indices": [],
 			"name": "Whitty Sing Note LEFT"
 		},
 		{
@@ -95,12 +85,7 @@
 			"loop": true,
 			"fps": 24,
 			"anim": "singRIGHT-loop",
-			"indices": [
-				15,
-				16,
-				17,
-				18
-			],
+			"indices": [],
 			"name": "whitty sing note right"
 		},
 		{
@@ -111,24 +96,8 @@
 			"loop": true,
 			"fps": 24,
 			"anim": "singUP-loop",
-			"indices": [
-				56,
-				57,
-				58,
-				59
-			],
+			"indices": [],
 			"name": "Whitty Sing Note UP"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				290,
-				180
-			],
-			"anim": "singUP-alt",
-			"fps": 24,
-			"name": "Whitty Ballistic Custsence",
-			"indices": []
 		}
 	],
 	"no_antialiasing": false,
