@@ -1128,49 +1128,6 @@ class PlayState extends MusicBeatState
 		}
 		char.x += char.positionArray[0];
 		char.y += char.positionArray[1];
-	}
-
-	public function startVideo(name:String):Void {
-		var foundFile:Bool = false;
-		var fileName = name;
-		if(OpenFlAssets.exists("assets/videos/" + fileName + ".webm")) 
-		{
-			foundFile = true;
-		}
-
-		if(foundFile) 
-		{
-			if (!runCutscene)
-		    {
-	            FlxG.switchState(new VideoState2('assets/videos/' + fileName + '.webm', function()
-	            {
-	                FlxG.switchState(new PlayState());  
-	                runCutscene = true;                          
-	            }));
-		    }
-		    else
-		    {
-				if(endingSong) 
-				{
-					endSong();
-				} 
-				else 
-				{
-					startCountdown();
-				}
-		    }
-		} 
-		else 
-		{
-			if(endingSong) 
-			{
-				endSong();
-			} 
-			else 
-			{
-				startCountdown();
-			}
-		}
 	}	
 
 	var dialogueCount:Int = 0;
