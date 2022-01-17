@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "hdsenpai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah, a new fair maden has come in search of true love!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "hdsenpai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A serenade between gentlemen shall decide where her beautiful heart shall reside."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep bo bop"
+		}
+	]
+}
