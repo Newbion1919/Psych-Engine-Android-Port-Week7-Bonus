@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "hdsenpaiangry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Just who the hell do you think you are?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "hdsenpaiangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Whatever, I'll just make sure you're never able to walk again."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "hdsenpaiangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And your girl..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "hdsenpaiangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Will"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "hdsenpaiangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Be"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "hdsenpaiangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "MINE"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Beep bo be ba skee"
+		}
+	]
+}
