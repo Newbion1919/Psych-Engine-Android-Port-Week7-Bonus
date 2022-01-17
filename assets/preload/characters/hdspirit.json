@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
+				1,
 				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Idle",
+			"name": "monster idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				87,
-				10
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Left pose",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-2,
-				-34
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Down pose",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-9,
-				29
+				70,
+				100
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Up pose",
+			"name": "monster up note",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-1,
-				-9
+				70,
+				40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Monster left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				30
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Right pose",
+			"name": "Monster Right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-94
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "monster down",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/HDSenpai",
+	"image": "characters/HDSpirit",
 	"position": [
 		0,
-		0
+		20
 	],
-	"healthicon": "hdsenpai",
+	"healthicon": "hdspirit",
 	"flip_x": false,
 	"healthbar_colors": [
-		254,
-		169,
-		111
+		255,
+		60,
+		110
 	],
 	"camera_position": [
-		0,
-		0
+		-180,
+		-90
 	],
-	"sing_duration": 6.1,
-	"scale": 1
+	"sing_duration": 4,
+	"scale": 1.5
 }
