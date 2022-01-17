@@ -902,7 +902,7 @@ class PlayState extends MusicBeatState
 		reloadHealthBarColors();
  
                 var creditTxt:FlxText = new FlxText(876, 648,  348); 
-                creditTxt.text = 'PORTED BY\nTWIST CHRIS';
+                creditTxt.text = 'PORTED BY NEWBION';
                 creditTxt.setFormat(Paths.font("vcr.ttf"), 30, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK); 
                 creditTxt.scrollFactor.set();
                 add(creditTxt);
