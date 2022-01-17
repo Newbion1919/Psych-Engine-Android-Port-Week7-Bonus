@@ -1,0 +1,43 @@
+{
+	"storyName": "hating simulator DX",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "week5",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"senpai",
+		""
+	],
+	"songs": [
+		[
+			"SenpaiDX",
+			"hdsenpai",
+			[
+				255,
+				120,
+				191
+			]
+		],
+		[
+			"RosesDX",
+			"hdsenpaiMad",
+			[
+				255,
+				120,
+				191
+			]
+		],
+		[
+			"ThornsDX",
+			"hdspirit",
+			[
+				255,
+				120,
+				191
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 6DX"
+}
