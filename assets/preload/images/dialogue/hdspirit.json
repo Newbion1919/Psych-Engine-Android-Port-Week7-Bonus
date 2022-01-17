@@ -1,0 +1,24 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "hdspirit",
+	"animations": [
+		{
+			"idle_offsets": [
+				-125,
+				143
+			],
+			"loop_offsets": [
+				-125,
+				143
+			],
+			"anim": "talk",
+			"idle_name": "Spirit Portrait Enter instance 10000",
+			"loop_name": ""
+		}
+	]
+}
