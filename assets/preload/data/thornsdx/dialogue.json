@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "hdspirit",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Direct contact with real humans, after being trapped in here for so long..."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "hdspirit",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and HER of all people."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "hdspirit",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll make her father pay for what he's done to me and all the others,,,,"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "hdspirit",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll beat you and make you take my place."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "hdspirit",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You don't mind your bodies being borrowed right? It's only fair..."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Bep boop ba bop"
+		}
+	]
+}
